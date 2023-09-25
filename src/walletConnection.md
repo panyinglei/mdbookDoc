@@ -38,7 +38,7 @@ imtoken在固定的连接选项中的表现与metamask一样。
 
 在coinbase钱包中无法调用到walletconnect（无法调用对应功能停留在原先页面），
 
-<video src="/Users/a123/Desktop/work/othervscode/mdbookDoc/src/img/446_1695626176.mp4"></video>
+![image-20230925160820851](/Users/a123/Desktop/work/othervscode/mdbookDoc/src/img/image-20230925160820851.png)
 
 点击固定支持的钱包时会跳转到应用商店中搜索应用或者跳转到相应钱包的下载网站无论是否安装对应钱包（相关链接方式有phantom、trust、kaikas、Bitski、opera touch）。部分会在点击后无法调用对应钱包停留在原先页面（BitKeep、core），另外一部分会卡在连接钱包页面(Fortmatic)。相关各部分表现与上述截屏表现的一致
 
